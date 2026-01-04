@@ -1,0 +1,8 @@
+{
+  "name": "lux",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "47d1d3b1"
+}
